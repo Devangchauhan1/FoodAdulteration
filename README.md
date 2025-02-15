@@ -8,3 +8,7 @@ Features
 Detects adulterants in various food products
 
 Uses machine learning models for classification
+
+Provides insights into contamination levels
+
+Supports real-time analysis and reporting
